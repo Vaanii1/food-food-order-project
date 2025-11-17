@@ -6,4 +6,4 @@ This is  single page application build using React, React Router, Javascript, an
 
 Tailwind CSS is being used to style each component.
 
-Supabase is used for backend.
+Supabase is being used for backend.
